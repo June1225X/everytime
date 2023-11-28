@@ -26,3 +26,7 @@ public class ExampleInstrumentedTest {
 
     }
 }
+
+class A{
+    int a =0;
+        }
